@@ -1,7 +1,9 @@
 <div align="center">
 
 
-  # Welcome Github Users <img src="https://github.com/user-attachments/assets/721614e9-16d0-473b-8588-d8e6afb01e91" width="29px">
+ # Welcome to the Hub! <img width="32" height="32" alt="512 (1)" src="https://github.com/user-attachments/assets/83e36b97-7ab2-4178-bef1-f22a1822149a" />
+
+  
 
 
 </div>
@@ -9,7 +11,8 @@
 
 <div align="center">
   
-Below, you can choose auto account creator that you need
+
+Below you will find a variety of automated account creation tools. Please select the one that fits your needs.🔍
   
 </div>
 
